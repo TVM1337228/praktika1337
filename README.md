@@ -73,7 +73,8 @@
 <body style="color:rgb(36, 75, 18)";>
     <h1 style="color:rgb(0, 0, 0)";>Hello ИСиП21/9</h1>
     <div id="move1"></div>
-    <p style="background-color:rgb(247, 90, 0);"><b> враылвраыыаааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааа</p>
+    <p style="background-color:rgb(247, 90, 0);"><b> 
+	    radim krutoi perec</p>
     <ul> 
         <li>One</li>
         <li>Two</li>
